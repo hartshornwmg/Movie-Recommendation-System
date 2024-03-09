@@ -1,0 +1,26 @@
+{
+"name": "movie-recommendation-system",
+"version": "1.0.0",
+"description": "aims to develop a web application that provides personalized movie recommendations to users based on their preferences and viewing history. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/hartshornwmg/Movie-Recommendation-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "hartshornwmg",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
